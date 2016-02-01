@@ -1,0 +1,52 @@
+# Files
+*_i.h
+*_i.c
+*_p.c
+
+# Temporary build files
+*.resharper
+*.vspscc
+*.user
+*.orig
+*.deps
+*.aps
+*.vbw
+*.suo
+*.obj
+*.ncb
+*.plg
+*.bsc
+*.ilk
+*.exp
+*.sbr
+*.opt
+*.pdb
+*.idb
+*.pch
+*.res
+*.scc
+*.lib
+*.sdf
+*.opensdf
+
+# Special Files
+*~
+*.swp
+Thumbs.db
+
+# Midl generated, non - _.h files
+Addin/iDocIDExcelAddinShim/iDocIDExcelAddinShim.h
+Addin/iDocIDWordAddinShim/iDocIDWordAddinShim.h
+
+# Directories
+
+# Resharper directories
+_ReSharper.*/
+
+# Build Directories
+obj/
+bin/
+Debug/
+Release/
+TestResults/
+ipch/
